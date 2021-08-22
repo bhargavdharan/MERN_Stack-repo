@@ -31,3 +31,10 @@
 ## # External components such as database, file-system, computation.
 
 ![work-flow](Images/workflow.png)
+
+****************************************************
+
+# what is npm ?
+### --> NPM stands for node package manager.
+
+### --> NPM is responsible for managing all the packages and modules for Node.js 
