@@ -27,3 +27,7 @@
 
 ### 4.Event loop: 
 #### -- Event loop indefinitely receives requests and process them.
+
+## # External components such as database, file-system, computation.
+
+![work-flow](Images/workflow.png)
