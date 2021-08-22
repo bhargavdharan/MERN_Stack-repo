@@ -19,8 +19,11 @@
 
 ## # Node-js is a server side platform that takes requests from users, process those requests and returns responses to the corresponding users.
 
-### 2.Event Queue: --> Node.js receives requests and places them into the event Queue.
+### 2.Event Queue: 
+#### -- Node.js receives requests and places them into the event Queue.
 
-### 3.Thread Pool: --> Nodejs internally maintains a thread pool.
+### 3.Thread Pool: 
+#### -- Nodejs internally maintains a thread pool.
 
-### 4.Event loop: --> Event loop indefinitely receives requests and process them.
+### 4.Event loop: 
+#### -- Event loop indefinitely receives requests and process them.
