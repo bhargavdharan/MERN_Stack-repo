@@ -37,4 +37,16 @@
 # what is npm ?
 ### --> NPM stands for node package manager.
 
-### --> NPM is responsible for managing all the packages and modules for Node.js 
+### --> NPM is responsible for managing all the packages and modules for Node.js
+--------------------------------------------------
+# Node Installation guide
+
+**Download Node.js from https://nodejs.org/en/download/**
+
+**Verify if node.js is properly installed using command prompt or any terminal**
+---
+#### node --version or node -v
+
+**NPM gets installed alongside, verify if it is properly installed using command prompt or terminal**
+---
+#### npm --version or npm -v
