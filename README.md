@@ -10,7 +10,7 @@
 
 ## Lets have a look on a parts in architecture:
 
-### 1. ### Requests:
+### 1.Requests:
 ### * Clients send requests to web-server
 ### * Requests can be 
 #### 1. query for data
