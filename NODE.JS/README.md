@@ -6,7 +6,7 @@
 
 **2.Node.js processing model is based on the javascript event model with javascript call-back mechanisms**
 
-![Image of Architecture](Images/Node-js.png)
+! [Architecture](Images/Node-js.png)
 
 ## Lets have a look on a parts in architecture:
 
