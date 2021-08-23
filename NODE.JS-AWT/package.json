@@ -1,0 +1,26 @@
+{
+  "name": "node.js-awt",
+  "version": "1.0.0",
+  "description": "learn-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargavdharan/MERN_Stack-repo.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "bhargav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhargavdharan/MERN_Stack-repo/issues"
+  },
+  "homepage": "https://github.com/bhargavdharan/MERN_Stack-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1"
+  }
+}
