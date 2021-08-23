@@ -20,7 +20,8 @@
   },
   "homepage": "https://github.com/bhargavdharan/MERN_Stack-repo#readme",
   "dependencies": {
+    "bootstrap": "^5.1.0",
     "express": "^4.17.1",
-    "bootstrap": "^5.1.0"
+    "uuid": "^8.3.2"
   }
 }
