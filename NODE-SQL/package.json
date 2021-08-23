@@ -1,0 +1,22 @@
+{
+  "name": "node-sql",
+  "version": "1.0.0",
+  "description": "learn-mode",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhargavdharan/MERN_Stack-repo.git"
+  },
+  "keywords": [
+    "nothing"
+  ],
+  "author": "bhargav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bhargavdharan/MERN_Stack-repo/issues"
+  },
+  "homepage": "https://github.com/bhargavdharan/MERN_Stack-repo#readme"
+}
