@@ -1,0 +1,14 @@
+{
+  "name": "node-restapis",
+  "version": "1.0.0",
+  "description": "learn-code",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
