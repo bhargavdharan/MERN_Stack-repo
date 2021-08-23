@@ -44,4 +44,5 @@ HMACSHA512{
 ### Some scenarios where JSON web tokens are useful:
 
 **1.Authorization:: This is the most common scenario using JWT.Once the user logged in, each subsequent request will include the JWT, allowing the user to access routes,services,and resources that are permitted with that location.**
+
 **2.Information exchange: JSON web  tokens are a good way of securely transmitting information between parties.**
