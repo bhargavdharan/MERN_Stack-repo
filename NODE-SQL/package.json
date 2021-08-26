@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/bhargavdharan/MERN_Stack-repo/issues"
   },
-  "homepage": "https://github.com/bhargavdharan/MERN_Stack-repo#readme"
+  "homepage": "https://github.com/bhargavdharan/MERN_Stack-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^2.3.0"
+  }
 }

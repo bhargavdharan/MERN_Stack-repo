@@ -1,0 +1,14 @@
+{
+  "name": "1.intro",
+  "version": "1.0.0",
+  "description": "intro to nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm start"
+  },
+  "keywords": [
+    "start"
+  ],
+  "author": "bhargav",
+  "license": "ISC"
+}
