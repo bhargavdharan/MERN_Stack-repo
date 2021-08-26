@@ -13,8 +13,8 @@
 ### *Real-time data apps*
 
 ## Misconceptions
- # *- Node.js is not a web framework*
- # *- Node.js is not multi-threaded*
+ #### *- Node.js is not a web framework*
+ #### *- Node.js is not multi-threaded*
 
 ## The event loop
  *- The first time node interprets the js code and executes it, it registers the events it finds*
