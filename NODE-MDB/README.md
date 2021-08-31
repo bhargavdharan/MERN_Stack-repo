@@ -56,10 +56,10 @@ MongoClient.connect(url,function(err,db){
 ### * MERN stack comprises of 4 technologies namely: MongoDB,Express,React and Node.js. it is designed to make the development process smoother and easier.
 ## The phrase 'MERN stack' refers to the following technologies:
 
-### --- MongoDB || it is a cross-platform document-oriented database program.
+### --- MongoDB    || it is a cross-platform document-oriented database program.
 ### --- Express.js || it is web application framework for node.js
-### --- React || React is a javascript library building user interfaces.
-### --- Node.js || Node.js is an open-source,cross-platform javascript run-time environment that executes javascript code outside of a browser.
+### --- React      || React is a javascript library building user interfaces.
+### --- Node.js    || Node.js is an open-source,cross-platform javascript run-time environment that executes javascript code outside of a browser.
 
 
 
